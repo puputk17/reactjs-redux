@@ -1,0 +1,96 @@
+{
+    "users" :
+    [
+        {
+          "id": 1,
+          "nama": "Puput K",
+          "alamat": "Griya Permai",
+          "nohp": "082286982273"
+        },
+        {
+          "id": 2,
+          "nama": "Kurniawan",
+          "alamat": "Batam",
+          "nohp": "082286123273"
+        },
+        {
+          "id": 3,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 4,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 5,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 6,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 7,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 8,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 9,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 10,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 11,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 12,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 13,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 14,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        },
+        {
+          "id": 15,
+          "nama": "Puput Kurniawan",
+          "alamat": "Sagulung",
+          "nohp": "082286967873"
+        }
+      ]
+
+}
